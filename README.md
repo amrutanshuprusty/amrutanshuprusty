@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!--![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)-->
-<h1 align="center">Hi 👋, I'm Laxminarayan Behera</h1>
+<h1 align="center">Hi 👋, I'm Amrutanshu Prusty</h1>
 
 <h3 align="center">A passionate Java Developer</h3>
 
