@@ -19,15 +19,14 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)-->
 <h1 align="center">Hi 👋, I'm Laxminarayan Behera</h1>
 
-<h3 align="center">A passionate Java Developer from India</h3>
+<h3 align="center">A passionate Java Developer</h3>
 
 <br/>
 
-- 💻 I'm currently working as a Java Developer  
-- 🌱 I’m currently learning **Advanced Java**, **Spring Boot**  
+- 💻 I'm a Java Developer 
 - 🔭 I’m building real-world Java backend projects  
 - 🤝 I’m looking to collaborate on Java and Backend projects  
-- 📫 Reach me at **laxminarayanbehera2002@gmail.com**  
+- 📫 Reach me at **amrutanshuprusty4@gmail.com**  
 - ⚡ Fun fact: I love problem-solving and exploring new tech!
 
 <br/>
@@ -35,10 +34,10 @@ Here are some ideas to get you started:
 <h2>🛠️ Tech Stack</h2>
 
 <ul>
-  <li>Languages: Java, C</li>
-  <li>Frontend: HTML, CSS, JavaScript (Basics)</li>
+  <li>Languages: Java, Python</li>
+  <li>Frontend: HTML, CSS, JavaScript</li>
   <li>Database: MySQL</li>
-  <li>Frameworks: Spring Boot (Learning)</li>
+  <li>Frameworks: Spring Boot</li>
   <li>Tools: Git, GitHub, IntelliJ IDEA, Eclipse</li>
 </ul>
 
@@ -47,7 +46,7 @@ Here are some ideas to get you started:
 <h2>📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LaxminarayanBehera&show_icons=true&theme=tokyonight" alt="Laxminarayan Behera's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amrutanshuprusty&show_icons=true&theme=tokyonight" alt="Amrutanshu Prusty's GitHub Stats" />
 </p>
 
 <br/>
@@ -62,5 +61,6 @@ Here are some ideas to get you started:
 <br/>
 
 <h4 align="center">"Keep coding, keep growing!" 🚀</h4>
+
 
 
