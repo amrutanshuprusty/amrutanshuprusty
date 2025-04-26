@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <ul>
   <li>Languages: Java, Python</li>
   <li>Frontend: HTML, CSS, JavaScript</li>
-  <li>Database: MySQL</li>
+  <li>Database: SQL, MySQL</li>
   <li>Frameworks: Spring Boot</li>
   <li>Tools: Git, GitHub, IntelliJ IDEA, Eclipse</li>
 </ul>
