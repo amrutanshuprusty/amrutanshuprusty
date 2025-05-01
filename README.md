@@ -41,13 +41,13 @@ Here are some ideas to get you started:
   <li>Tools: Git, GitHub, IntelliJ IDEA, Eclipse</li>
 </ul>
 
-<br/>
+<!--<br/>
 
 <h2>📈 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amrutanshuprusty&show_icons=true&theme=tokyonight" alt="Amrutanshu Prusty's GitHub Stats" />
-</p>
+</p>-->
 
 <br/>
 
